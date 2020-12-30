@@ -2,7 +2,10 @@
 
 Tecnologias que trabalho
 
+<div>
 <img alt="kotlin" src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" width="40">
+<p>Kotlin<p> 
+</div>
 <img alt="java" src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" width="40">
 <img alt="javascript" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="40">
 <img alt="vue" src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" width="40">
