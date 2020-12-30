@@ -1,6 +1,7 @@
 ### Programador do Grupo AgroCP
 
-Tecnologias que trabalho atualmente:
+Tecnologias que trabalho:
+
 
 <img alt="kotlin" src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" width="40">
 <p>Kotlin<p> 
@@ -55,3 +56,15 @@ Tecnologias que trabalho atualmente:
 
 <img alt="php" src="https://emojis.slackmojis.com/emojis/images/1450319454/130/php.png?1450319454" width="40">
 <p>PHP<p>
+
+<img alt="mysql" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="40">
+<p>MySql<p>
+
+<img alt="sqlserver" src="https://teltecsolutions.com.br/wp-content/uploads/2019/02/sql-server-2008.png" width="40">
+<p>Sql Server<p>
+
+<img alt="firebird" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" width="40">
+<p>Firebird<p>
+
+<img alt="sqllite" src="https://emojis.slackmojis.com/emojis/images/1539273766/4793/sqlite.png?1539273766" width="40">
+<p>SQLLite<p>
