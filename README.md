@@ -9,7 +9,7 @@ Tecnologias que trabalho:
 <code><img alt="vue" src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" width="40"></code>
 <code><img alt="html5" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40"></code>
 <code><img alt="css" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="40"></code>
-<code><img alt="aspnetcore" src="https://miro.medium.com/max/875/0*t0CmIjLNKeKT1GaS.png" width="40"></code>
+<code><img alt="aspnetcore" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="40"></code>
 <code><img alt="c#" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" width="40"></code>
 <code><img alt="docker" src="https://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762" width="40"></code>
 <code><img alt="swift" src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="40"></code>
