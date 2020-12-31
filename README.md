@@ -29,4 +29,4 @@ Tecnologias que trabalho:
 
   <summary> GitHub Stats</summary>
   
-  ![WilliamVicentini's github stats](https://github-readme-stats-five-sooty.vercel.app/api?username=williamvicentini&show_icons=true&hide_border=true&count_private=true)
+  ![WilliamVicentini's github stats](https://github-readme-stats-five-sooty.vercel.app/api?username=williamvicentini&show_icons=true&hide_border=true&count_private=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark&hide=contribs,prs)
