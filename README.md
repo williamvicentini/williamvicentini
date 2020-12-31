@@ -26,10 +26,7 @@ Tecnologias que trabalho:
 <code><img alt="springboot" src="https://emojis.slackmojis.com/emojis/images/1599062611/10387/spring-boot.png?1599062611" width="40"></code>
 
 
-<details>
-  
+
   <summary> GitHub Stats</summary>
   
-  <img align="left" alt="github stats" scr="github-readme-stats-five-sooty.vercel.app/api?username=williamvicentini&show_icons=true&hide_border=true">
-  
-</details>
+  ![WilliamVicentini's github stats](https://github-readme-stats-five-sooty.vercel.app/api?username=williamvicentini&show_icons=true&hide_border=true&count_private=true)
