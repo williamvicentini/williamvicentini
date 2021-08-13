@@ -20,13 +20,10 @@ Tecnologias que trabalho:
 <code><img alt="c++" src="https://emojis.slackmojis.com/emojis/images/1598512721/10314/c-plus-plus-logo.png?1598512721" width="40"></code>
 <code><img alt="php" src="https://emojis.slackmojis.com/emojis/images/1450319454/130/php.png?1450319454" width="40"></code>
 <code><img alt="mysql" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="40"></code>
-<code><img alt="sqlserver" src="https://teltecsolutions.com.br/wp-content/uploads/2019/02/sql-server-2008.png" width="40"></code>
 <code><img alt="firebird" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" width="40"></code>
 <code><img alt="sqllite" src="https://emojis.slackmojis.com/emojis/images/1539273766/4793/sqlite.png?1539273766" width="40"></code>
 <code><img alt="springboot" src="https://emojis.slackmojis.com/emojis/images/1599062611/10387/spring-boot.png?1599062611" width="40"></code>
 
 
-
-  <summary> GitHub Stats</summary>
   
   ![WilliamVicentini's github stats](https://github-readme-stats-five-sooty.vercel.app/api?username=williamvicentini&show_icons=true&hide_border=true&count_private=true&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=dark&hide=contribs,prs)
