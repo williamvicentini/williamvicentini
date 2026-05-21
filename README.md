@@ -1,4 +1,3 @@
-```markdown
 # Olá, eu sou o William Vicentini Batista 👋
 ### FullStack Engineer & Machine Learning Specialist
 
