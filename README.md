@@ -1,65 +1,128 @@
 # Olá, eu sou o William Vicentini Batista 👋
-### FullStack Engineer & Machine Learning Specialist
+### 🚀 FullStack Engineer & Machine Learning Architect
 
-Mantenho foco no desenvolvimento de ecossistemas robustos, escaláveis e inteligentes. Minha experiência transita desde a arquitetura de sistemas corporativos de alta performance até o treinamento e integração de modelos avançados de Inteligência Artificial e Modelos de Linguagem de Larga Escala (LLMs).
-
----
-
-## 🛠️ Tecnologias e Ecossistema Técnico
-
-### **Backend & Enterprise Architecture**
 <p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
-
-### **Artificial Intelligence & Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LLM_Integration-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-</p>
-
-### **Frontend & Mobile Experiences**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### **DevOps, Databases & Interactive Graphics**
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Firebird-E32929?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:william@wtechsolution.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## 🧠 Foco Estratégico & Competências em IA
+## 📈 Visão Geral & Performance
 
-- **Machine Learning & Deep Learning:** Desenvolvimento, treinamento e deploy de modelos preditivos e computação visual utilizando **TensorFlow** e ecossistema Python.
-- **Large Language Models (LLMs):** Engenharia de Prompt avançada, fine-tuning, frameworks de orquestração (LangChain/LlamaIndex) e integração de agentes inteligentes em aplicações produtivas de mercado.
-- **Arquitetura FullStack:** Criação de APIs robustas com tipagem forte (Kotlin/Java/C#) conectadas a interfaces SPA/SSR reativas de alta usabilidade.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=william-vicentini&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-vicentini&layout=compact&theme=tokyonight&hide=html,css" height="180" alt="Top Languages" />
+</p>
 
 ---
 
-## 📊 Diretrizes de Engenharia
+## 🧠 Core Competencies (IA & Machine Learning)
+
+```🛡️ INFRAESTRUTURA INTELIGENTE & MODELAGEM AVANÇADA```
+
+* **Deep Learning & Computer Vision:** Desenvolvimento de redes neurais complexas, processamento de imagem e arquiteturas preditivas construídas nativamente com **TensorFlow** e ecossistema científico do **Python**.
+* **Orquestração de LLMs:** Criação de pipelines avançados (RAG), fine-tuning direcionado, agentes autônomos com memória contextual e integração profunda de modelos fundacionais.
+* **Sistemas de Produção (MLOps):** Engenharia de dados e conteinerização escalável com Docker para disponibilização de modelos de alta performance sob demandas extremas.
+
+---
+
+## 🛠️ Tecnologias de Elite
+
+### 💻 Backend & Enterprise Core
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /><br /><b>Kotlin</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br /><b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /><br /><b>Spring Boot</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" /><br /><b>C#</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET" /><br /><b>.NET Core</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br /><b>Node.js</b>
+    </td>
+  </tr>
+</table>
+
+### 🤖 Inteligência Artificial & Data Science
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br /><b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /><br /><b>TensorFlow</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" height="40" alt="LLMs" /><br /><b>LLM Eng.</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-hugging-face-the-ai-community-building-the-future-logo-bold-tal-revivo.png" width="40" height="40" alt="Hugging Face" /><br /><b>Hugging Face</b>
+    </td>
+  </tr>
+</table>
+
+### 🎨 Frontend Experiences & Mobile
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><b>JavaScript</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /><br /><b>Vue.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-desktop.svg" width="40" height="40" alt="Next.js" /><br /><b>Next.js</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" /><br /><b>Swift</b>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Database, Infrastructure & Graphics
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br /><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br /><b>MySQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /><br /><b>SQLite</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/firebird.png" width="40" height="40" alt="Firebird" /><br /><b>Firebird</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity" /><br /><b>Unity</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Métricas de Arquitetura
 
 ```text
-专注于 ── Swifter, Smarter, Scalable
-├── Clean Code & SOLID principles
-├── MLOps & Containerização isolada com Docker
-└── Otimização de queries e consistência em bancos relacionais
+专注于 ── High Performance & Intelligence
+├── Clean Code, SOLID Principles & DDD Architecture
+├── MLOps: Continuous Integration de modelos inteligentes
+└── Otimização extrema de queries em ambientes relacionais
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" />
+</p>
