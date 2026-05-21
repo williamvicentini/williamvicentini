@@ -6,18 +6,6 @@
   <a href="mailto:william@wtechsolution.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
-## 🧠 Core Competencies (IA & Machine Learning)
-
-```🛡️ INFRAESTRUTURA INTELIGENTE & MODELAGEM AVANÇADA```
-
-* **Deep Learning & Computer Vision:** Desenvolvimento de redes neurais complexas, processamento de imagem e arquiteturas preditivas construídas nativamente com **TensorFlow** e ecossistema científico do **Python**.
-* **Orquestração de LLMs:** Criação de pipelines avançados (RAG), fine-tuning direcionado, agentes autônomos com memória contextual e integração profunda de modelos fundacionais.
-* **Sistemas de Production (MLOps):** Engenharia de dados e conteinerização escalável com Docker para disponibilização de modelos de alta performance sob demandas extremas.
-
----
-
 ## 🛠️ Tecnologias
 
 ### 💻 Backend & Enterprise Core
@@ -54,13 +42,3 @@
   <img src="https://img.shields.io/badge/Firebird-E32929?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebird" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
-
----
-
-## ⚙️ Métricas de Arquitetura
-
-```text
-专注于 ── High Performance & Intelligence
-├── Clean Code, SOLID Principles & DDD Architecture
-├── MLOps: Continuous Integration de modelos inteligentes
-└── Otimização extrema de queries em ambientes relacionais
