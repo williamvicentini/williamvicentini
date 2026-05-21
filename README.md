@@ -1,25 +1,66 @@
-### FullStack Developer
+```markdown
+# Olá, eu sou o William Vicentini Batista 👋
+### FullStack Engineer & Machine Learning Specialist
 
-Tecnologias que trabalho:
+Mantenho foco no desenvolvimento de ecossistemas robustos, escaláveis e inteligentes. Minha experiência transita desde a arquitetura de sistemas corporativos de alta performance até o treinamento e integração de modelos avançados de Inteligência Artificial e Modelos de Linguagem de Larga Escala (LLMs).
 
+---
 
-<code><img alt="kotlin" src="https://emojis.slackmojis.com/emojis/images/1496063955/2351/kotlin.png?1496063955" width="40"></code>
-<code><img alt="java" src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" width="40"></code>
-<code><img alt="javascript" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="40"></code>
-<code><img alt="vue" src="https://emojis.slackmojis.com/emojis/images/1483052921/1537/vue.png?1483052921" width="40"></code>
-<code><img alt="html5" src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40"></code>
-<code><img alt="css" src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="40"></code>
-<code><img alt="aspnetcore" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" width="40"></code>
-<code><img alt="c#" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" width="40"></code>
-<code><img alt="docker" src="https://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762" width="40"></code>
-<code><img alt="swift" src="https://emojis.slackmojis.com/emojis/images/1514391005/3320/swift.png?1514391005" width="40"></code>
-<code><img alt="python" src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png?1450319444" width="40"></code>
-<code><img alt="tensorflow" src="https://emojis.slackmojis.com/emojis/images/1487230631/1765/tensorflow.png?1487230631" width="40"></code>
-<code><img alt="nodejs" src="https://emojis.slackmojis.com/emojis/images/1533426774/4425/nodejs.png?1533426774" width="40"></code>
-<code><img alt="unity" src="https://emojis.slackmojis.com/emojis/images/1493213650/2134/unity3d.png?1493213650" width="40"></code>
-<code><img alt="c++" src="https://emojis.slackmojis.com/emojis/images/1598512721/10314/c-plus-plus-logo.png?1598512721" width="40"></code>
-<code><img alt="php" src="https://emojis.slackmojis.com/emojis/images/1450319454/130/php.png?1450319454" width="40"></code>
-<code><img alt="mysql" src="https://emojis.slackmojis.com/emojis/images/1533733488/4439/mysql.png?1533733488" width="40"></code>
-<code><img alt="firebird" src="https://emojis.slackmojis.com/emojis/images/1569504551/6527/fire_bird.png?1569504551" width="40"></code>
-<code><img alt="sqllite" src="https://emojis.slackmojis.com/emojis/images/1539273766/4793/sqlite.png?1539273766" width="40"></code>
-<code><img alt="springboot" src="https://emojis.slackmojis.com/emojis/images/1599062611/10387/spring-boot.png?1599062611" width="40"></code>
+## 🛠️ Tecnologias e Ecossistema Técnico
+
+### **Backend & Enterprise Architecture**
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+### **Artificial Intelligence & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LLM_Integration-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+### **Frontend & Mobile Experiences**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### **DevOps, Databases & Interactive Graphics**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Firebird-E32929?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</p>
+
+---
+
+## 🧠 Foco Estratégico & Competências em IA
+
+- **Machine Learning & Deep Learning:** Desenvolvimento, treinamento e deploy de modelos preditivos e computação visual utilizando **TensorFlow** e ecossistema Python.
+- **Large Language Models (LLMs):** Engenharia de Prompt avançada, fine-tuning, frameworks de orquestração (LangChain/LlamaIndex) e integração de agentes inteligentes em aplicações produtivas de mercado.
+- **Arquitetura FullStack:** Criação de APIs robustas com tipagem forte (Kotlin/Java/C#) conectadas a interfaces SPA/SSR reativas de alta usabilidade.
+
+---
+
+## 📊 Diretrizes de Engenharia
+
+```text
+专注于 ── Swifter, Smarter, Scalable
+├── Clean Code & SOLID principles
+├── MLOps & Containerização isolada com Docker
+└── Otimização de queries e consistência em bancos relacionais
